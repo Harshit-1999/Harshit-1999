@@ -41,8 +41,7 @@
 
 🟢 **Mern Stack Developer** @ Softinator Group Of Industries PVT.LTD  
 🔵 **Industrial Training** @ Ardent Computech Kolkata  
-🔵 **** @   
-🔴 
+
 ---
 
 ## 🧰 Tech Toolbox
