@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-📍 Based in **Katni, Madhya Pradesh, India**  
+📍 Based in **Indore, Madhya Pradesh, India**  
 💻 **Full-Stack JavaScript Developer** with a strong focus on the **MERN stack** — MongoDB · Express.js · React.js · Node.js  
 🎯 Deep understanding of **Object-Oriented Programming (OOP)**, **Database Management Systems (DBMS)** & **Data Structures & Algorithms (DSA)**  
 🎨 Passionate about building **scalable web applications**, crafting **design systems**, and developing **reusable UI component libraries** for seamless user experiences.  
@@ -37,14 +37,12 @@
 
 ---
 
-### 💼 Work Experience
+### 💼 Internship
 
-🟢 **Full Stack Trainer** @ Dr. Reddy’s Foundation  
-🔵 **Technical Trainer** @ MGI  
-🔵 **Member Technical** @ ADP Pvt. Ltd.  
-🔴 **Project Engineer Intern** @ Wipro Pvt. Ltd.  
-🔴 **Graduate Engineer Trainee** @ HCL Pvt. Ltd.
-
+🟢 **Mern Stack Developer** @ Softinator Group Of Industries PVT.LTD  
+🔵 **Industrial Training** @ Ardent Computech Kolkata  
+🔵 **** @   
+🔴 
 ---
 
 ## 🧰 Tech Toolbox
@@ -58,13 +56,12 @@
 
 ### 👨‍💻 Languages
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+ 
+ 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  
 </p>
 
 ### 🌐 Web Technologies
@@ -78,7 +75,7 @@
 ### 🚀 Frameworks & Libraries
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -97,7 +94,7 @@
 
 ### ☁️ Cloud & Deployment
 <p>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" />
@@ -112,15 +109,15 @@
 ---
 
 #### 🛒 Shopping24 (E-Commerce Platform)
-[![Repo](https://img.shields.io/badge/GitHub-Shopping24-181717?style=for-the-badge&logo=github)](https://github.com/jagmohan123/EcomerceFrontend)
-[![Live](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://shoping24k.netlify.app/)
+[![Repo](https://img.shields.io/badge/GitHub-Shopping24-181717?style=for-the-badge&logo=github)]()
+[![Live](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)]()
 
 A complete **e-commerce web application** where users can browse products, add to cart, and place orders.
 
 - 🌟 **Key Features:**
   - Full **product catalog** with categories & search
   - **User authentication & profile management**
-  - **Shopping cart & checkout** with secure payment integration
+  
   - **Admin dashboard** for product & order management
   - Responsive design for desktop & mobile
 
@@ -131,7 +128,7 @@ A complete **e-commerce web application** where users can browse products, add t
 #### 🎓StudyAdda (Ed-Tech Platform)
 
 [![Repo](https://img.shields.io/badge/GitHub-EdTechFrontEnd-181717?style=for-the-badge&logo=github)](https://github.com/Harshit-1999/RENTIFY.git)
-[![Live](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://studyaddal.netlify.app/)
+[![Live](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)]()
 
 A modern **EdTech platform** built with the **MERN stack** that provides a seamless learning experience for students and instructors.
 
@@ -165,11 +162,11 @@ A **Job Platform** designed to help job seekers find and apply to opportunities 
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jagmohan123&show_icons=true&theme=tokyonight" height="160" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jagmohan123&theme=tokyonight" height="160" alt="streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshit1999&show_icons=true&theme=tokyonight" height="160" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshit1999&theme=tokyonight" height="160" alt="streak"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagmohan123&layout=compact&theme=tokyonight" height="150" alt="top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit1999&layout=compact&theme=tokyonight" height="150" alt="top languages"/>
 </p>
 
 ---
